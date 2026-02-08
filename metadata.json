@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VTK - Virtual Tool kits",
+  "description": "A comprehensive Android-style device diagnostic and monitoring suite featuring battery analysis, real-time sensor tracking, hardware specs, thermal monitoring, and hardware diagnostics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
